@@ -1,0 +1,10 @@
+# Ignorar binarios y compilaciones de Unitree
+external/unitree_sdk2/build/
+external/unitree_mujoco/simulate/build/
+
+# Ignorar desarrollos compilados
+my_development/build/
+
+# Ignorar descargas temporales
+*.tar.gz
+.mujoco/
